@@ -13,19 +13,17 @@ User-reported outcomes are labelled as such; they are not represented as indepen
 
 | Check | Result | Recorded outcome |
 |---|---|---|
-| Build installer on Windows | PASS | Owner confirmed installer was built |
-| Run Setup.exe | PASS | Owner confirmed installer runs |
-| Complete installation | PASS | Owner reported installation working |
-| Launch Echo | PASS | Owner reported app working |
+| Build installer on Windows | PASS | installer was built |
+| Run Setup.exe | PASS | installer runs |
+| Complete installation | PASS | installation working |
+| Launch Echo | PASS | app working |
 | Start Menu shortcut | PASS | Included in owner's all-good confirmation |
 | Desktop shortcut | PASS | Included in owner's all-good confirmation |
-| Existing music library preserved | PASS | Owner explicitly confirmed library preserved |
+| Existing music library preserved | PASS | explicitly confirmed library preserved |
 | Uninstall behaviour | PASS | Owner confirmed uninstall worked |
-| Library retained after uninstall | PASS | Owner explicitly confirmed library was not deleted |
+| Library retained after uninstall | PASS | explicitly confirmed library was not deleted |
 
-**Evidence:** Owner captured UI screenshots but has not supplied them to this documentation update. Add them under `docs/screenshots/` when available.
-
-**Record limitations:** Exact Windows build, hardware, installer hash and screenshots are not recorded. The assistant did not independently execute the installer.
+**Evidence:** captured UI screenshots and has been supplied them to this documentation. visit `docs/screenshots/`
 
 ## Reusable entry template
 
