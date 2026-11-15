@@ -46,4 +46,3 @@ The 1.10.0 installer is unsigned. Windows may show an unknown-publisher/SmartScr
 - If library data appears missing, do not clear app/site data; check backups first.
 - If lyric setup fails, inspect `Echo-Lyric-Aligner-Setup.log`.
 
-Before publishing future releases, complete `TEST_PLAN.md`, record results in `TEST_LOG.md`, and attach the installer asset to the GitHub release.
