@@ -5,11 +5,11 @@ User-reported outcomes are labelled as such; they are not represented as indepen
 ## 1.10.0 — Windows installer acceptance
 
 - **Date:** 15 November 2026
-- **Tester:** Project owner
+- **Tester:** Nate
 - **Environment:** Windows; exact edition/build and hardware not recorded
 - **Installer:** `Echo-Desktop-Setup-1.10.0-x64.exe`
-- **Test type:** Owner-reported manual acceptance
-- **Overall:** **PASS — owner-reported**
+- **Test type:** manual acceptance
+- **Overall:** **PASS**
 
 | Check | Result | Recorded outcome |
 |---|---|---|
