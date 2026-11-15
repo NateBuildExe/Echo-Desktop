@@ -26,7 +26,6 @@ Echo focuses on local music playback and library management. Optional online ser
 - [User guide](docs/USER_GUIDE.md)
 - [Windows build and install](docs/WINDOWS_BUILD_AND_INSTALL.md)
 - [Changelog](CHANGELOG.md)
-- [Test plan](docs/TEST_PLAN.md)
 - [Test log](docs/TEST_LOG.md)
 - [UI screenshots](docs/screenshots/README.md)
 
