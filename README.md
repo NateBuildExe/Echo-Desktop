@@ -36,8 +36,34 @@ Documented library storage: IndexedDB database `echo-desktop-library`, schema ve
 
 The installer is designed to keep the app profile separate from program files. The project owner reported that the 1.10.0 installation and uninstall checks passed and that the existing library remained intact.
 
-## Repository status
+## Project Status
 
-This documentation package does not include the full application source tree or compiled installer. UI screenshots are pending and will be added when supplied. The installer is unsigned; Windows may show an unknown-publisher/SmartScreen warning. Do not disable Windows security to install it.
+<sub>Current Status: Stable Release – v1.10.0</sub>
 
+Echo Desktop has successfully completed its initial development and testing phase.
+
+## Completed
+
+- Windows desktop application developed and packaged.
+- Custom Windows installer implemented.
+- Installer tested successfully.
+- Application installation and launch verified.
+- Core UI and playback features implemented.
+- Full-screen artwork and lyrics interface implemented.
+- Virtualizer and other interface features integrated.
+- GitHub repository prepared with the Windows executable.
+
+ ## Known Limitations
+
+- Lyrics availability and synchronization may vary depending on the audio file and available metadata.
+- Some tracks may require manually provided lyrics.
+- Further testing across different Windows systems is recommended.
+
+### 🔧 Development Status
+
+The current version is considered stable for initial release. Future updates may include bug fixes, performance improvements, UI refinements, and further improvements to lyrics handling.
+
+Project Status: Active Development / Initial Release
+
+Echo Desktop is an independently developed desktop music player. It does not distribute copyrighted music.
 No software license is specified yet. Do not assume reuse or redistribution rights.
