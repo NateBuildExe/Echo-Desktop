@@ -51,7 +51,6 @@ Echo Desktop has successfully completed its initial development and testing phas
 - Core UI and playback features implemented.
 - Full-screen artwork and lyrics interface implemented.
 - Virtualizer and other interface features integrated.
-- GitHub repository prepared with the Windows executable.
 
  ## Known Limitations
 
