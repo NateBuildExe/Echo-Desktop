@@ -38,6 +38,21 @@ The installer is designed to keep the app profile separate from program files. T
 ## Project Status
 
 <sub>Current Status: Stable Release – v1.10.0</sub>
+  <img width="1366" height="720" alt="Echo1" src="https://github.com/user-attachments/assets/1c18f530-f9cc-4024-a0f5-31091d41cfa1" />
+
+
+ <img width="1365" height="715" alt="Screenshot 2026-11-15 120719" src="https://github.com/user-attachments/assets/86a46091-ba64-4564-b37f-b1d7faf619de" />
+
+
+  <img width="1366" height="708" alt="Screenshot 2026-11-15 120748" src="https://github.com/user-attachments/assets/ca9f7f44-6c46-4d92-ad3a-b156d97bf8d0" />
+
+
+  <img width="1366" height="715" alt="Screenshot 2026-11-15 120809" src="https://github.com/user-attachments/assets/111cf687-70c6-45d8-95dd-367871c5980c" />
+
+
+  <img width="1365" height="705" alt="Screenshot 2026-11-15 120933" src="https://github.com/user-attachments/assets/24c8ec95-0a39-4001-b664-b9030ab9840a" />
+
+
 
 Echo Desktop has successfully completed its initial development and testing phase.
 
@@ -57,7 +72,7 @@ Echo Desktop has successfully completed its initial development and testing phas
 - Some tracks may require manually provided lyrics.
 - Further testing across different Windows systems is recommended.
 
-### 🔧 Development Status
+### Development Status
 
 The current version is considered stable for initial release. Future updates may include bug fixes, performance improvements, UI refinements, and further improvements to lyrics handling.
 
