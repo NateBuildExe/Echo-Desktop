@@ -25,21 +25,3 @@ User-reported outcomes are labelled as such; they are not represented as indepen
 
 **Evidence:** captured UI screenshots and has been supplied them to this documentation. visit `docs/screenshots/`
 
-## Reusable entry template
-
-### VERSION — test title
-- Date:
-- Tester:
-- Environment:
-- Build / installer:
-- Test type: Automated / Manual / Owner-reported
-- Overall: PASS / FAIL / BLOCKED / PARTIAL
-
-| Test | Result | Notes / evidence |
-|---|---|---|
-| | | |
-
-**Problems found:**  
-**Fixes applied:**  
-**Retest:**  
-**Remaining issues / limitations:**
